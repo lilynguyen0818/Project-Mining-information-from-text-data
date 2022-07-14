@@ -39,6 +39,6 @@ With increasing k-tuples, little to no frequent items are to be found. For 3- an
 
 ## Task 3: Graphs and Social Networks
 
-Unweighted nad weighted networks of the abstracts of similarity are drawn using obtained similar pairs for different threshold. Based on those networks, the communities are identified  and visualized using gephi software.
+Unweighted and weighted networks of the abstracts of similarity are drawn using obtained similar pairs for different threshold. Based on those networks, the communities are identified  and visualized using gephi software.
 
 
