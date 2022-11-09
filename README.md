@@ -1,6 +1,6 @@
 # Project: Mining information from text data
 
-This project is an application of machine learning into finding similar items or sets of text data adopting different approaches including Jaccard similarities, MinHash and Local sensitive hashing (LSH) vectorized version. In practice, these techniques can be employed for the service such as plaragiasm check by comparing the subject texts with the texts of similar contents in the database.
+This project is an application of machine learning into finding similar items or sets of text data adopting different approaches including Jaccard similarities, MinHash and Local sensitive hashing (LSH) vectorized version. In practice, these techniques can be employed for the service such as plagiarism check by comparing the subject texts with the texts of similar contents in the database.
 
 The three techniques are employed for the comparison of their accuracy in finding similar items and the disadvantage of such technique in exchange for better accuracy.
 
@@ -8,7 +8,7 @@ Three tasks are developed to find out about the trade-off between the accuracy a
 
 ## Description of the dataset
 
-The dataset stores the information of a published artice such as the content of the article abstract, authors/editors of the article, time of publishment, address, publisher of the article and url to the article. All the information is presented in the bib form.
+The dataset stores the information of a published article such as the content of the article abstract, authors/editors of the article, time of publishment, address, publisher of the article and url to the article. All the information is presented in the bib form.
 
 After parsing the dataset and transforming it into a dataframe, we can see that the data has 74430 entries and 20 features equivalent to 11.4 MB memory.
 
