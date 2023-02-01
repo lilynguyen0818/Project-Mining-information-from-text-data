@@ -14,7 +14,7 @@ After parsing the dataset and transforming it into a dataframe, we can see that 
 
 As the requirement of the first task is to randomly choose 1000 abstracts for testing to avoid system overloading, we need to preprocess the abstract column, for example, removing the empty abstracts, very short abstracts, and abstracts that are non latin.
 
-The code shows that there are 109 entries with empty abstracts, 57 entries with very short abstracts (less than 200 characters), and 145 entries that are non latin. All those entries are dropped beforing randomly choosing 1000 abstracts.
+The code shows that there are 109 entries with empty abstracts, 57 entries with very short abstracts (less than 200 characters), and 145 entries that are non latin. All those entries are dropped before randomly choosing 1000 abstracts.
 
 ## Task 1: Finding the similar items
 
