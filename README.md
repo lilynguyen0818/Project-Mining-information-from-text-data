@@ -32,7 +32,7 @@ Three approaches are employed in this task including naive, A-priori and PCY alg
 
 As a result, the number of frequent items decreases with the increase of support threshold. All approaches produces the same result. For naive approach, the operation time increases with the increase of the threshold, which is in contrast with the other methods. For low threshold, A priori and hash table took longer time than higher threshold.
 
-When trying to test with different numbers of hashing tables, we notice that the results of items found are the same in different numbers of hashing tables. However, generally, with an increase in the numbers of hashing tables, the opertion time also increases. This can be understood as more tables take up more memories.
+When trying to test with different numbers of hashing tables, we notice that the results of items found are the same in different numbers of hashing tables. However, generally, with an increase in the numbers of hashing tables, the operation time also increases. This can be understood as more tables take up more memories.
 
 
 With increasing k-tuples, little to no frequent items are to be found. For 3- and 4-tuples, threshold at 10 or lower can help to find more frquent pairs. However, at lower threshold, the operation time is much longer.
