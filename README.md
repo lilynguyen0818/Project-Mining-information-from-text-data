@@ -8,7 +8,7 @@ Three tasks are developed to find out about the trade-off between the accuracy a
 
 ## Description of the dataset
 
-The dataset stores the information of a published article such as the content of the article abstract, authors/editors of the article, time of publishment, address, publisher of the article and url to the article. All the information is presented in the bib form.
+The dataset stores the information of published articles such as the content of the article abstract, authors/editors of the article, time of publishment, address, publisher of the article and url to the article. All the information is presented in the bib form.
 
 After parsing the dataset and transforming it into a dataframe, we can see that the data has 74430 entries and 20 features equivalent to 11.4 MB memory.
 
