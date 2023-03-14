@@ -22,7 +22,7 @@ For different k-shingles (3,5, and 10), similarity thresholds (0.1, 0.2, and 0.2
 
 For 50 hashing functions, Jaccard similarity approach took the longest time for running. As k_shingles and threshold increases, the number of similar items found decrease. For small k_shingles and low threshold, jaccard similarty approach found more similar pairs than the other approach. Local sensitive hashing approach found the least similar pairs even though operation time for this approach is the most efficient, which shows the trade-off between efficiency and precision.
 
-For 100 and 200 hashing functions, minhashing approach found more similar pairs compared to 50 hahsing functions.
+For 100 and 200 hashing functions, minhashing approach found more similar pairs compared to 50 hashing functions.
 
 ## Task 2: Mining information for the text data
 
