@@ -1,6 +1,6 @@
 # Project: Mining information from text data
 
-This project is an application of machine learning into finding similar items or sets of text data adopting different approaches including Jaccard similarities, MinHash and Local sensitive hashing (LSH) vectorized version. In practice, these techniques can be employed for the service such as plagiarism check by comparing the subject texts with the texts of similar contents in the database.
+This project is an application of data mining into finding similar items or sets of text data adopting different approaches including Jaccard similarities, MinHash and Local sensitive hashing (LSH) vectorized version. In practice, these techniques can be employed for the service such as plagiarism check by comparing the subject texts with the texts of similar contents in the database.
 
 The three techniques are employed for the comparison of their accuracy in finding similar items and the disadvantage of such technique in exchange for better accuracy.
 
